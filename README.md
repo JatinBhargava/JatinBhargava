@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jatin Bhargvaa</h1>
 <h3 align="center">"Building seamless digital experiences from front-end to back-end"</h3>
 
-- 🔭 I’m currently working on ** Unsent - collaborative Story Writing **
+- 🔭 I’m currently working on **Unsent - collaborative Story Writing**
 
 - 📫 How to reach me **jatinbhargava4@gmail.com**
 
