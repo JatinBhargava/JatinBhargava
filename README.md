@@ -30,7 +30,7 @@ Building scalable applications, distributed systems, and modern web experiences 
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="123_jatin" height="30" width="40" />
 </a>
 
-<a href="[YOUR_RESUME_LINK](https://drive.google.com/file/d/1wknMXk3OssrPF5hkT855SwZiCbeIKyT4/view?usp=sharing)" target="_blank">
+<a href="https://drive.google.com/file/d/1wknMXk3OssrPF5hkT855SwZiCbeIKyT4/view">
 <img align="center" src="https://img.icons8.com/color/48/resume.png" alt="resume" height="35" width="35" />
 </a>
 </p>
