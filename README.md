@@ -1,22 +1,168 @@
-<h1 align="center">Hi 👋, I'm Jatin Bhargvaa</h1>
-<h3 align="center">"Building seamless digital experiences from front-end to back-end"</h3>
+<h1 align="center">Hi 👋, I'm Jatin Bhargava</h1>
 
-- 🔭 I’m currently working on **Unsent - collaborative Story Writing**
+<h3 align="center">Full Stack Developer | Java Backend Engineer | System Design Enthusiast</h3>
 
-- 📫 How to reach me **jatinbhargava4@gmail.com**
-
-- 📄 [Know about my experiences](https://drive.google.com/file/d/1wknMXk3OssrPF5hkT855SwZiCbeIKyT4/view?usp=sharing)
-
-- ⚡ Fun fact **You can say Me and anime in Single line**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jatinbhargava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatinbhargava" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/123_jatin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="123_jatin" height="30" width="40" /></a>
+<p align="center">
+Building scalable applications, distributed systems, and modern web experiences 🚀
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/jatinbhargava"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jatinbhargava" /></a></p><br><br>
+## 👨‍💻 About Me
+
+- 🔭 Currently building **Unsent** – A Collaborative Story Writing Platform
+- 🌱 Learning **Microservices, Kafka, AWS, Distributed Systems & AI Applications**
+- 💡 Interested in **Backend Development, System Design, and Scalable Architectures**
+- 🏆 Solved **500+ DSA Problems**
+- 🎯 Software Engineer focused on large-scale systems
+- ⚡ Fun Fact: **Me + Anime = Perfect Weekend 🍜**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/jatinbhargava" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatinbhargava" height="30" width="40" />
+</a>
+
+<a href="https://leetcode.com/u/123_jatin/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="123_jatin" height="30" width="40" />
+</a>
+</p>
+
+📫 Reach me at: **jatinbhargava4@gmail.com**
+
+---
+
+## 🚀 Featured Projects
+
+### 📝 Unsent
+Collaborative story-writing platform where users can contribute, continue, and co-create stories together.
+
+**Tech Stack:** Spring Boot, React, PostgreSQL, JWT, Docker
+
+---
+
+### 📰 Personalized News Recommendation System
+AI-powered recommendation engine that suggests articles based on user preferences and reading behavior.
+
+**Tech Stack:** React, Node.js, MongoDB, Python, Scikit-Learn
+
+---
+
+### 🍗 Protein Recipe Blog
+Recipe-sharing platform focused on high-protein meals and nutrition.
+
+**Tech Stack:** TypeScript, React, Tailwind CSS
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,html,css,bootstrap" />
+</p>
+
+### Database & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,jest" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=7" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+</p>
+
+---
+
+## 💻 Coding Profiles
+
+- 🔥 LeetCode: https://leetcode.com/u/123_jatin/
+- 💼 LinkedIn: https://linkedin.com/in/jatinbhargava
+
+---
+
+## 🎯 Current Focus
+
+```java
+public class JatinBhargava {
+
+    String[] currentlyLearning = {
+        "System Design",
+        "Microservices",
+        "Kafka",
+        "AWS",
+        "Distributed Systems"
+    };
+
+    String goal = "Build scalable products used by millions 🚀";
+}
+```
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to discussing:
+
+- Backend Engineering
+- System Design
+- Distributed Systems
+- Open Source
+- AI Products
+- Software Engineering Opportunities
+
+---
+
+<h3 align="center">
+🚀 Building scalable systems one commit at a time
+</h3>
