@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **jatinbhargava4@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/13MVyqC5efo61QaawS8SBPx1iCgrhYeqr/edit?usp=sharing&ouid=110990215329815369105&rtpof=true&sd=true](https://docs.google.com/document/d/13MVyqC5efo61QaawS8SBPx1iCgrhYeqr/edit?usp=sharing&ouid=110990215329815369105&rtpof=true&sd=true)
+- 📄 [Know about my experiences](https://drive.google.com/file/d/1wknMXk3OssrPF5hkT855SwZiCbeIKyT4/view?usp=sharing)
 
 - ⚡ Fun fact **You can say Me and anime in Single line**
 
