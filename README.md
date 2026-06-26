@@ -131,7 +131,7 @@ Recipe-sharing platform focused on high-protein meals and nutrition.
 ## 💻 Coding Profiles
 
 - 🔥 LeetCode: https://leetcode.com/u/123_jatin/
-- 💼 LinkedIn: [https://linkedin.com/in/jatinbhargava](Jatin Bhargava)
+- 💼 LinkedIn: [ Jatin Bhargava ](https://www.linkedin.com/in/jatinbhargava10/))
 
 ---
 
